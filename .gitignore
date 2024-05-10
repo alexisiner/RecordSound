@@ -1,0 +1,21 @@
+# Directorios
+bin/
+obj/
+
+# Archivos de compilación
+*.exe
+*.pdb
+*.dll
+
+# Archivos generados por Visual Studio
+*.user
+*.vs/
+*.suo
+*.cache
+*.bak
+
+# Archivos de compilación de Visual Studio
+*.log
+*.vspscc
+*.vssscc
+_buildlogs/
