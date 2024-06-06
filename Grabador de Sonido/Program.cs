@@ -17,6 +17,7 @@ namespace Grabador_de_Sonido
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //edicion en la rama main
         }
     }
 }
